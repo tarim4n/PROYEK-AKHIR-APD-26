@@ -1,1 +1,50 @@
-[]
+[
+    {
+        "kode": "CAT-M01",
+        "nama": "Wisuda",
+        "harga": 500000,
+        "sesi": [
+            "Pagi",
+            "Siang",
+            "Sore",
+            "Malam"
+        ],
+        "jadwal": []
+    },
+    {
+        "kode": "CAT-M02",
+        "nama": "Formal",
+        "harga": 350000,
+        "sesi": [
+            "Pagi",
+            "Siang",
+            "Sore",
+            "Malam"
+        ],
+        "jadwal": []
+    },
+    {
+        "kode": "CAT-M03",
+        "nama": "Party",
+        "harga": 450000,
+        "sesi": [
+            "Pagi",
+            "Siang",
+            "Sore",
+            "Malam"
+        ],
+        "jadwal": []
+    },
+    {
+        "kode": "CAT-M04",
+        "nama": "Wedding",
+        "harga": 1200000,
+        "sesi": [
+            "Pagi",
+            "Siang",
+            "Sore",
+            "Malam"
+        ],
+        "jadwal": []
+    }
+]

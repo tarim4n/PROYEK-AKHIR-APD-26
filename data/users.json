@@ -1,1 +1,18 @@
-[]
+[
+    {
+        "id": "USR-001",
+        "username": "admin",
+        "password": "admin123",
+        "nama": "Administrator",
+        "role": "Admin",
+        "aktif": true
+    },
+    {
+        "id": "USR-002",
+        "username": "petugas",
+        "password": "petugas123",
+        "nama": "petugas1",
+        "role": "Petugas",
+        "aktif": true
+    }
+]
