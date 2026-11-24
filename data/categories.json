@@ -1,0 +1,30 @@
+[
+    {
+        "kode": "KAT-001",
+        "nama": "Kebaya"
+    },
+    {
+        "kode": "KAT-002",
+        "nama": "Busana Adat"
+    },
+    {
+        "kode": "KAT-003",
+        "nama": "Jas dan Formal"
+    },
+    {
+        "kode": "KAT-004",
+        "nama": "Gaun"
+    },
+    {
+        "kode": "KAT-005",
+        "nama": "Busana Profesi"
+    },
+    {
+        "kode": "KAT-006",
+        "nama": "Busana Wisuda"
+    },
+    {
+        "kode": "KAT-007",
+        "nama": "Aksesori"
+    }
+]

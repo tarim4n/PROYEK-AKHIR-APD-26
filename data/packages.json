@@ -1,0 +1,293 @@
+[
+    {
+        "kode": "PKA-001",
+        "nama": "Wedding Bugis",
+        "mua": "CAT-M04",
+        "aktif": true,
+        "komposisi": [
+            {
+                "label": "Baju Bodo",
+                "pilihan": [
+                    "AD-BGS-P"
+                ]
+            },
+            {
+                "label": "Jas Tutup",
+                "pilihan": [
+                    "AD-BGS-L"
+                ]
+            },
+            {
+                "label": "Aksesori perempuan",
+                "pilihan": [
+                    "AK-BGS-P"
+                ]
+            },
+            {
+                "label": "Aksesori pria",
+                "pilihan": [
+                    "AK-BGS-L"
+                ]
+            }
+        ]
+    },
+    {
+        "kode": "PKA-002",
+        "nama": "Wedding Jawa",
+        "mua": "CAT-M04",
+        "aktif": true,
+        "komposisi": [
+            {
+                "label": "Kebaya Adat Jawa",
+                "pilihan": [
+                    "AD-JWA-P"
+                ]
+            },
+            {
+                "label": "Beskap",
+                "pilihan": [
+                    "AD-JWA-L"
+                ]
+            },
+            {
+                "label": "Aksesori perempuan",
+                "pilihan": [
+                    "AK-JWA-P"
+                ]
+            },
+            {
+                "label": "Aksesori pria",
+                "pilihan": [
+                    "AK-JWA-L"
+                ]
+            }
+        ]
+    },
+    {
+        "kode": "PKA-003",
+        "nama": "Wedding Minang",
+        "mua": "CAT-M04",
+        "aktif": true,
+        "komposisi": [
+            {
+                "label": "Busana Adat Minang Perempuan",
+                "pilihan": [
+                    "AD-MNG-P"
+                ]
+            },
+            {
+                "label": "Busana Adat Minang Laki-laki",
+                "pilihan": [
+                    "AD-MNG-L"
+                ]
+            },
+            {
+                "label": "Aksesori perempuan",
+                "pilihan": [
+                    "AK-MNG-P"
+                ]
+            },
+            {
+                "label": "Aksesori pria",
+                "pilihan": [
+                    "AK-MNG-L"
+                ]
+            }
+        ]
+    },
+    {
+        "kode": "PKA-004",
+        "nama": "Wedding Dayak",
+        "mua": "CAT-M04",
+        "aktif": true,
+        "komposisi": [
+            {
+                "label": "Busana Adat Dayak Perempuan",
+                "pilihan": [
+                    "AD-DYK-P"
+                ]
+            },
+            {
+                "label": "Busana Adat Dayak Laki-laki",
+                "pilihan": [
+                    "AD-DYK-L"
+                ]
+            },
+            {
+                "label": "Aksesori perempuan",
+                "pilihan": [
+                    "AK-DYK-P"
+                ]
+            },
+            {
+                "label": "Aksesori pria",
+                "pilihan": [
+                    "AK-DYK-L"
+                ]
+            }
+        ]
+    },
+    {
+        "kode": "PKA-005",
+        "nama": "Wedding Elegant",
+        "mua": "CAT-M04",
+        "aktif": true,
+        "komposisi": [
+            {
+                "label": "Gaun Pengantin",
+                "pilihan": [
+                    "GN-PGT-WHT",
+                    "GN-PGT-IVY"
+                ]
+            }
+        ]
+    },
+    {
+        "kode": "PKA-006",
+        "nama": "Graduation Pink",
+        "mua": "CAT-M01",
+        "aktif": true,
+        "komposisi": [
+            {
+                "label": "Kebaya",
+                "pilihan": [
+                    "KB-PNK-S",
+                    "KB-PNK-M",
+                    "KB-PNK-L",
+                    "KB-PNK-XL"
+                ]
+            },
+            {
+                "label": "Toga Wisuda",
+                "pilihan": [
+                    "WS-TG-S",
+                    "WS-TG-M",
+                    "WS-TG-L",
+                    "WS-TG-XL"
+                ]
+            },
+            {
+                "label": "Jubah Wisuda",
+                "pilihan": [
+                    "WS-JB-S",
+                    "WS-JB-M",
+                    "WS-JB-L",
+                    "WS-JB-XL"
+                ]
+            }
+        ]
+    },
+    {
+        "kode": "PKA-007",
+        "nama": "Graduation Blue",
+        "mua": "CAT-M01",
+        "aktif": true,
+        "komposisi": [
+            {
+                "label": "Kebaya",
+                "pilihan": [
+                    "KB-BLU-S",
+                    "KB-BLU-M",
+                    "KB-BLU-L",
+                    "KB-BLU-XL"
+                ]
+            },
+            {
+                "label": "Toga Wisuda",
+                "pilihan": [
+                    "WS-TG-S",
+                    "WS-TG-M",
+                    "WS-TG-L",
+                    "WS-TG-XL"
+                ]
+            },
+            {
+                "label": "Jubah Wisuda",
+                "pilihan": [
+                    "WS-JB-S",
+                    "WS-JB-M",
+                    "WS-JB-L",
+                    "WS-JB-XL"
+                ]
+            }
+        ]
+    },
+    {
+        "kode": "PKA-008",
+        "nama": "Graduation Brown",
+        "mua": "CAT-M01",
+        "aktif": true,
+        "komposisi": [
+            {
+                "label": "Kebaya",
+                "pilihan": [
+                    "KB-BRN-S",
+                    "KB-BRN-M",
+                    "KB-BRN-L",
+                    "KB-BRN-XL"
+                ]
+            },
+            {
+                "label": "Toga Wisuda",
+                "pilihan": [
+                    "WS-TG-S",
+                    "WS-TG-M",
+                    "WS-TG-L",
+                    "WS-TG-XL"
+                ]
+            },
+            {
+                "label": "Jubah Wisuda",
+                "pilihan": [
+                    "WS-JB-S",
+                    "WS-JB-M",
+                    "WS-JB-L",
+                    "WS-JB-XL"
+                ]
+            }
+        ]
+    },
+    {
+        "kode": "PKA-009",
+        "nama": "Party Maroon",
+        "mua": "CAT-M03",
+        "aktif": true,
+        "komposisi": [
+            {
+                "label": "Gaun Pesta Maroon",
+                "pilihan": [
+                    "GN-PTS-MRN"
+                ]
+            }
+        ]
+    },
+    {
+        "kode": "PKA-010",
+        "nama": "Party Navy",
+        "mua": "CAT-M03",
+        "aktif": true,
+        "komposisi": [
+            {
+                "label": "Gaun Pesta Navy",
+                "pilihan": [
+                    "GN-PTS-NVY"
+                ]
+            }
+        ]
+    },
+    {
+        "kode": "PKA-011",
+        "nama": "Formal Men",
+        "mua": "CAT-M02",
+        "aktif": true,
+        "komposisi": [
+            {
+                "label": "Setelan Formal",
+                "pilihan": [
+                    "FM-L",
+                    "FM-XL"
+                ]
+            }
+        ]
+    }
+]
