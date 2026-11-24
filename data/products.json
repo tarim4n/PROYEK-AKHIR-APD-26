@@ -7,7 +7,7 @@
         "ukuran": "S",
         "jenis": "",
         "keterangan": "",
-        "harga": null,
+        "harga": 125000,
         "stok": 1,
         "aktif": true
     },
@@ -19,7 +19,7 @@
         "ukuran": "M",
         "jenis": "",
         "keterangan": "",
-        "harga": null,
+        "harga": 125000,
         "stok": 1,
         "aktif": true
     },
@@ -31,7 +31,7 @@
         "ukuran": "L",
         "jenis": "",
         "keterangan": "",
-        "harga": null,
+        "harga": 125000,
         "stok": 1,
         "aktif": true
     },
@@ -43,7 +43,7 @@
         "ukuran": "XL",
         "jenis": "",
         "keterangan": "",
-        "harga": null,
+        "harga": 125000,
         "stok": 1,
         "aktif": true
     },
@@ -55,7 +55,7 @@
         "ukuran": "S",
         "jenis": "",
         "keterangan": "",
-        "harga": null,
+        "harga": 125000,
         "stok": 1,
         "aktif": true
     },
@@ -67,7 +67,7 @@
         "ukuran": "M",
         "jenis": "",
         "keterangan": "",
-        "harga": null,
+        "harga": 125000,
         "stok": 1,
         "aktif": true
     },
@@ -79,7 +79,7 @@
         "ukuran": "L",
         "jenis": "",
         "keterangan": "",
-        "harga": null,
+        "harga": 125000,
         "stok": 1,
         "aktif": true
     },
@@ -91,7 +91,7 @@
         "ukuran": "XL",
         "jenis": "",
         "keterangan": "",
-        "harga": null,
+        "harga": 125000,
         "stok": 1,
         "aktif": true
     },
@@ -103,7 +103,7 @@
         "ukuran": "S",
         "jenis": "",
         "keterangan": "",
-        "harga": null,
+        "harga": 125000,
         "stok": 1,
         "aktif": true
     },
@@ -115,7 +115,7 @@
         "ukuran": "M",
         "jenis": "",
         "keterangan": "",
-        "harga": null,
+        "harga": 125000,
         "stok": 1,
         "aktif": true
     },
@@ -127,7 +127,7 @@
         "ukuran": "L",
         "jenis": "",
         "keterangan": "",
-        "harga": null,
+        "harga": 125000,
         "stok": 1,
         "aktif": true
     },
@@ -139,7 +139,7 @@
         "ukuran": "XL",
         "jenis": "",
         "keterangan": "",
-        "harga": null,
+        "harga": 125000,
         "stok": 1,
         "aktif": true
     },
@@ -151,7 +151,7 @@
         "ukuran": "-",
         "jenis": "Perempuan",
         "keterangan": "",
-        "harga": null,
+        "harga": 200000,
         "stok": 1,
         "aktif": true
     },
@@ -163,7 +163,7 @@
         "ukuran": "-",
         "jenis": "Laki-laki",
         "keterangan": "",
-        "harga": null,
+        "harga": 175000,
         "stok": 1,
         "aktif": true
     },
@@ -175,7 +175,7 @@
         "ukuran": "-",
         "jenis": "Perempuan",
         "keterangan": "",
-        "harga": null,
+        "harga": 225000,
         "stok": 1,
         "aktif": true
     },
@@ -187,7 +187,7 @@
         "ukuran": "-",
         "jenis": "Laki-laki",
         "keterangan": "",
-        "harga": null,
+        "harga": 200000,
         "stok": 1,
         "aktif": true
     },
@@ -199,7 +199,7 @@
         "ukuran": "-",
         "jenis": "Perempuan",
         "keterangan": "",
-        "harga": null,
+        "harga": 200000,
         "stok": 1,
         "aktif": true
     },
@@ -211,7 +211,7 @@
         "ukuran": "-",
         "jenis": "Laki-laki",
         "keterangan": "",
-        "harga": null,
+        "harga": 175000,
         "stok": 1,
         "aktif": true
     },
@@ -223,7 +223,7 @@
         "ukuran": "-",
         "jenis": "Perempuan",
         "keterangan": "",
-        "harga": null,
+        "harga": 200000,
         "stok": 1,
         "aktif": true
     },
@@ -235,7 +235,7 @@
         "ukuran": "-",
         "jenis": "Laki-laki",
         "keterangan": "",
-        "harga": null,
+        "harga": 175000,
         "stok": 1,
         "aktif": true
     },
@@ -247,7 +247,7 @@
         "ukuran": "L",
         "jenis": "",
         "keterangan": "",
-        "harga": null,
+        "harga": 150000,
         "stok": 1,
         "aktif": true
     },
@@ -259,7 +259,7 @@
         "ukuran": "XL",
         "jenis": "",
         "keterangan": "",
-        "harga": null,
+        "harga": 150000,
         "stok": 1,
         "aktif": true
     },
@@ -271,7 +271,7 @@
         "ukuran": "L",
         "jenis": "",
         "keterangan": "",
-        "harga": null,
+        "harga": 125000,
         "stok": 1,
         "aktif": true
     },
@@ -283,7 +283,7 @@
         "ukuran": "XL",
         "jenis": "",
         "keterangan": "",
-        "harga": null,
+        "harga": 125000,
         "stok": 1,
         "aktif": true
     },
@@ -295,7 +295,7 @@
         "ukuran": "-",
         "jenis": "",
         "keterangan": "",
-        "harga": null,
+        "harga": 250000,
         "stok": 1,
         "aktif": true
     },
@@ -307,7 +307,7 @@
         "ukuran": "-",
         "jenis": "",
         "keterangan": "",
-        "harga": null,
+        "harga": 250000,
         "stok": 1,
         "aktif": true
     },
@@ -319,7 +319,7 @@
         "ukuran": "-",
         "jenis": "",
         "keterangan": "",
-        "harga": null,
+        "harga": 500000,
         "stok": 1,
         "aktif": true
     },
@@ -331,7 +331,7 @@
         "ukuran": "-",
         "jenis": "",
         "keterangan": "",
-        "harga": null,
+        "harga": 500000,
         "stok": 1,
         "aktif": true
     },
@@ -343,7 +343,7 @@
         "ukuran": "S",
         "jenis": "",
         "keterangan": "",
-        "harga": null,
+        "harga": 75000,
         "stok": 1,
         "aktif": true
     },
@@ -355,7 +355,7 @@
         "ukuran": "M",
         "jenis": "",
         "keterangan": "",
-        "harga": null,
+        "harga": 75000,
         "stok": 1,
         "aktif": true
     },
@@ -367,7 +367,7 @@
         "ukuran": "L",
         "jenis": "",
         "keterangan": "",
-        "harga": null,
+        "harga": 75000,
         "stok": 1,
         "aktif": true
     },
@@ -379,7 +379,7 @@
         "ukuran": "S",
         "jenis": "",
         "keterangan": "",
-        "harga": null,
+        "harga": 100000,
         "stok": 1,
         "aktif": true
     },
@@ -391,7 +391,7 @@
         "ukuran": "M",
         "jenis": "",
         "keterangan": "",
-        "harga": null,
+        "harga": 100000,
         "stok": 1,
         "aktif": true
     },
@@ -403,7 +403,7 @@
         "ukuran": "L",
         "jenis": "",
         "keterangan": "",
-        "harga": null,
+        "harga": 100000,
         "stok": 1,
         "aktif": true
     },
@@ -415,7 +415,7 @@
         "ukuran": "S",
         "jenis": "",
         "keterangan": "",
-        "harga": null,
+        "harga": 100000,
         "stok": 1,
         "aktif": true
     },
@@ -427,7 +427,7 @@
         "ukuran": "M",
         "jenis": "",
         "keterangan": "",
-        "harga": null,
+        "harga": 100000,
         "stok": 1,
         "aktif": true
     },
@@ -439,7 +439,7 @@
         "ukuran": "L",
         "jenis": "",
         "keterangan": "",
-        "harga": null,
+        "harga": 100000,
         "stok": 1,
         "aktif": true
     },
@@ -451,7 +451,7 @@
         "ukuran": "S",
         "jenis": "",
         "keterangan": "",
-        "harga": null,
+        "harga": 75000,
         "stok": 1,
         "aktif": true
     },
@@ -463,7 +463,7 @@
         "ukuran": "M",
         "jenis": "",
         "keterangan": "",
-        "harga": null,
+        "harga": 75000,
         "stok": 1,
         "aktif": true
     },
@@ -475,7 +475,7 @@
         "ukuran": "L",
         "jenis": "",
         "keterangan": "",
-        "harga": null,
+        "harga": 75000,
         "stok": 1,
         "aktif": true
     },
@@ -487,7 +487,7 @@
         "ukuran": "XL",
         "jenis": "",
         "keterangan": "",
-        "harga": null,
+        "harga": 75000,
         "stok": 1,
         "aktif": true
     },
@@ -499,7 +499,7 @@
         "ukuran": "S",
         "jenis": "",
         "keterangan": "",
-        "harga": null,
+        "harga": 60000,
         "stok": 1,
         "aktif": true
     },
@@ -511,7 +511,7 @@
         "ukuran": "M",
         "jenis": "",
         "keterangan": "",
-        "harga": null,
+        "harga": 60000,
         "stok": 1,
         "aktif": true
     },
@@ -523,7 +523,7 @@
         "ukuran": "L",
         "jenis": "",
         "keterangan": "",
-        "harga": null,
+        "harga": 60000,
         "stok": 1,
         "aktif": true
     },
@@ -535,7 +535,7 @@
         "ukuran": "XL",
         "jenis": "",
         "keterangan": "",
-        "harga": null,
+        "harga": 60000,
         "stok": 1,
         "aktif": true
     },
@@ -547,7 +547,7 @@
         "ukuran": "-",
         "jenis": "",
         "keterangan": "Pasangan busana: Baju Bodo",
-        "harga": null,
+        "harga": 50000,
         "stok": 1,
         "aktif": true
     },
@@ -559,7 +559,7 @@
         "ukuran": "-",
         "jenis": "",
         "keterangan": "Pasangan busana: Jas Tutup",
-        "harga": null,
+        "harga": 25000,
         "stok": 1,
         "aktif": true
     },
@@ -571,7 +571,7 @@
         "ukuran": "-",
         "jenis": "",
         "keterangan": "Pasangan busana: Busana adat perempuan",
-        "harga": null,
+        "harga": 60000,
         "stok": 1,
         "aktif": true
     },
@@ -583,7 +583,7 @@
         "ukuran": "-",
         "jenis": "",
         "keterangan": "Pasangan busana: Busana adat laki-laki",
-        "harga": null,
+        "harga": 30000,
         "stok": 1,
         "aktif": true
     },
@@ -595,7 +595,7 @@
         "ukuran": "-",
         "jenis": "",
         "keterangan": "Pasangan busana: Kebaya adat",
-        "harga": null,
+        "harga": 50000,
         "stok": 1,
         "aktif": true
     },
@@ -607,7 +607,7 @@
         "ukuran": "-",
         "jenis": "",
         "keterangan": "Pasangan busana: Beskap",
-        "harga": null,
+        "harga": 30000,
         "stok": 1,
         "aktif": true
     },
@@ -619,7 +619,7 @@
         "ukuran": "-",
         "jenis": "",
         "keterangan": "Pasangan busana: Busana adat perempuan",
-        "harga": null,
+        "harga": 60000,
         "stok": 1,
         "aktif": true
     },
@@ -631,7 +631,7 @@
         "ukuran": "-",
         "jenis": "",
         "keterangan": "Pasangan busana: Busana adat laki-laki",
-        "harga": null,
+        "harga": 35000,
         "stok": 1,
         "aktif": true
     }
