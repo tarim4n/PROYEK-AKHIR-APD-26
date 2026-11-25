@@ -1,99 +1,280 @@
 [
     {
         "kode": "RNT-001",
-        "idPelanggan": "CUS-003",
-        "namaPelanggan": "PelangganHIHU",
-        "dibuatPada": "25-11-2026 03:29",
-        "batasBayar": "26-11-2026 03:29",
-        "jenisPesanan": "Satuan",
-        "paket": null,
+        "idPelanggan": "CUS-001",
+        "namaPelanggan": "Siti Rahma",
+        "dibuatPada": "08-11-2026 10:00",
+        "batasBayar": "09-11-2026 10:00",
+        "jenisPesanan": "Paket",
+        "paket": {
+            "kode": "PKA-006",
+            "nama": "Graduation Pink"
+        },
         "items": [
             {
-                "kodeProduk": "AD-BGS-P",
-                "nama": "Baju Bodo Bugis",
+                "kodeProduk": "KB-PNK-M",
+                "nama": "Kebaya",
                 "jumlah": 1,
-                "hargaSewa": 200000
+                "hargaSewa": 125000
+            },
+            {
+                "kodeProduk": "WS-TG-M",
+                "nama": "Toga Wisuda",
+                "jumlah": 1,
+                "hargaSewa": 75000
+            },
+            {
+                "kodeProduk": "WS-JB-M",
+                "nama": "Jubah Wisuda",
+                "jumlah": 1,
+                "hargaSewa": 60000
             }
         ],
-        "tanggalMulai": "30-11-2026",
-        "tanggalAkhir": "01-12-2026",
+        "tanggalMulai": "10-11-2026",
+        "tanggalAkhir": "11-11-2026",
         "durasi": 2,
         "mua": {
             "kodeMUA": "MUA-001",
-            "kodeLayanan": "CAT-M02",
-            "kategori": "Formal",
-            "tanggal": "30-11-2026",
+            "kodeLayanan": "CAT-M01",
+            "kategori": "Wisuda",
+            "tanggal": "10-11-2026",
             "sesi": "Pagi",
-            "harga": 350000
+            "harga": 500000
         },
-        "subtotalRental": 400000,
-        "biayaMUA": 350000,
-        "totalAwal": 750000,
-        "minimalDP": 225000,
-        "denda": 0,
-        "totalAkhir": 750000,
-        "totalDibayar": 0,
-        "statusRental": "ST-01",
-        "statusBayar": "PAY-01",
-        "pengambilan": null,
-        "pengembalian": null,
-        "pengajuanBatal": true,
+        "subtotalRental": 520000,
+        "biayaMUA": 500000,
+        "totalAwal": 1020000,
+        "minimalDP": 306000,
+        "denda": 104000,
+        "totalAkhir": 1124000,
+        "totalDibayar": 1124000,
+        "statusRental": "ST-05",
+        "statusBayar": "PAY-03",
+        "pengambilan": {
+            "waktu": "10-11-2026 08:30",
+            "petugas": "Petugas Rupae"
+        },
+        "pengembalian": {
+            "tanggalAktual": "12-11-2026",
+            "hariTerlambat": 1,
+            "kondisi": "Baik",
+            "petugas": "Petugas Rupae"
+        },
+        "pengajuanBatal": false,
         "pembatalan": null
     },
     {
         "kode": "RNT-002",
-        "idPelanggan": "CUS-003",
-        "namaPelanggan": "PelangganHIHU",
-        "dibuatPada": "25-11-2026 03:35",
-        "batasBayar": "26-11-2026 03:35",
+        "idPelanggan": "CUS-002",
+        "namaPelanggan": "Budi Santoso",
+        "dibuatPada": "03-11-2026 13:00",
+        "batasBayar": "04-11-2026 13:00",
         "jenisPesanan": "Paket",
         "paket": {
-            "kode": "PKA-003",
-            "nama": "Wedding Minang"
+            "kode": "PKA-011",
+            "nama": "Formal Men"
         },
         "items": [
             {
-                "kodeProduk": "AD-MNG-P",
-                "nama": "Busana Adat Minang",
+                "kodeProduk": "FM-L",
+                "nama": "Setelan Formal",
                 "jumlah": 1,
-                "hargaSewa": 225000
-            },
-            {
-                "kodeProduk": "AD-MNG-L",
-                "nama": "Busana Adat Minang",
-                "jumlah": 1,
-                "hargaSewa": 200000
-            },
-            {
-                "kodeProduk": "AK-MNG-P",
-                "nama": "Set aksesori perempuan Minang",
-                "jumlah": 1,
-                "hargaSewa": 60000
-            },
-            {
-                "kodeProduk": "AK-MNG-L",
-                "nama": "Set aksesori pria Minang",
-                "jumlah": 1,
-                "hargaSewa": 30000
+                "hargaSewa": 125000
             }
         ],
-        "tanggalMulai": "25-11-2026",
-        "tanggalAkhir": "26-11-2026",
-        "durasi": 2,
+        "tanggalMulai": "05-11-2026",
+        "tanggalAkhir": "05-11-2026",
+        "durasi": 1,
         "mua": {
             "kodeMUA": "MUA-002",
+            "kodeLayanan": "CAT-M02",
+            "kategori": "Formal",
+            "tanggal": "05-11-2026",
+            "sesi": "Siang",
+            "harga": 350000
+        },
+        "subtotalRental": 125000,
+        "biayaMUA": 350000,
+        "totalAwal": 475000,
+        "minimalDP": 142500,
+        "denda": 0,
+        "totalAkhir": 475000,
+        "totalDibayar": 475000,
+        "statusRental": "ST-05",
+        "statusBayar": "PAY-03",
+        "pengambilan": {
+            "waktu": "05-11-2026 09:00",
+            "petugas": "Petugas Rupae"
+        },
+        "pengembalian": {
+            "tanggalAktual": "05-11-2026",
+            "hariTerlambat": 0,
+            "kondisi": "Baik",
+            "petugas": "Petugas Rupae"
+        },
+        "pengajuanBatal": false,
+        "pembatalan": null
+    },
+    {
+        "kode": "RNT-003",
+        "idPelanggan": "CUS-003",
+        "namaPelanggan": "Dewi Lestari",
+        "dibuatPada": "22-11-2026 11:00",
+        "batasBayar": "23-11-2026 11:00",
+        "jenisPesanan": "Paket",
+        "paket": {
+            "kode": "PKA-009",
+            "nama": "Party Maroon"
+        },
+        "items": [
+            {
+                "kodeProduk": "GN-PTS-MRN",
+                "nama": "Gaun Pesta",
+                "jumlah": 1,
+                "hargaSewa": 250000
+            }
+        ],
+        "tanggalMulai": "24-11-2026",
+        "tanggalAkhir": "27-11-2026",
+        "durasi": 4,
+        "mua": {
+            "kodeMUA": "MUA-003",
+            "kodeLayanan": "CAT-M03",
+            "kategori": "Party",
+            "tanggal": "24-11-2026",
+            "sesi": "Sore",
+            "harga": 450000
+        },
+        "subtotalRental": 1000000,
+        "biayaMUA": 450000,
+        "totalAwal": 1450000,
+        "minimalDP": 435000,
+        "denda": 0,
+        "totalAkhir": 1450000,
+        "totalDibayar": 935000,
+        "statusRental": "ST-03",
+        "statusBayar": "PAY-02",
+        "pengambilan": {
+            "waktu": "24-11-2026 09:15",
+            "petugas": "Petugas Rupae"
+        },
+        "pengembalian": null,
+        "pengajuanBatal": false,
+        "pembatalan": null
+    },
+    {
+        "kode": "RNT-004",
+        "idPelanggan": "CUS-004",
+        "namaPelanggan": "Andi Pratama",
+        "dibuatPada": "18-11-2026 15:00",
+        "batasBayar": "19-11-2026 15:00",
+        "jenisPesanan": "Satuan",
+        "paket": null,
+        "items": [
+            {
+                "kodeProduk": "JS-PR-L",
+                "nama": "Jas Pria",
+                "jumlah": 1,
+                "hargaSewa": 150000
+            },
+            {
+                "kodeProduk": "PR-PLS-M",
+                "nama": "Seragam Polisi",
+                "jumlah": 1,
+                "hargaSewa": 100000
+            }
+        ],
+        "tanggalMulai": "20-11-2026",
+        "tanggalAkhir": "22-11-2026",
+        "durasi": 3,
+        "mua": null,
+        "subtotalRental": 750000,
+        "biayaMUA": 0,
+        "totalAwal": 750000,
+        "minimalDP": 225000,
+        "denda": 0,
+        "totalAkhir": 750000,
+        "totalDibayar": 525000,
+        "statusRental": "ST-04",
+        "statusBayar": "PAY-02",
+        "pengambilan": {
+            "waktu": "20-11-2026 10:00",
+            "petugas": "Administrator"
+        },
+        "pengembalian": null,
+        "pengajuanBatal": false,
+        "pembatalan": null
+    },
+    {
+        "kode": "RNT-005",
+        "idPelanggan": "CUS-005",
+        "namaPelanggan": "Maya Putri",
+        "dibuatPada": "24-11-2026 09:00",
+        "batasBayar": "25-11-2026 09:00",
+        "jenisPesanan": "Paket",
+        "paket": {
+            "kode": "PKA-005",
+            "nama": "Wedding Elegant"
+        },
+        "items": [
+            {
+                "kodeProduk": "GN-PGT-WHT",
+                "nama": "Gaun Pengantin",
+                "jumlah": 1,
+                "hargaSewa": 500000
+            }
+        ],
+        "tanggalMulai": "05-12-2026",
+        "tanggalAkhir": "06-12-2026",
+        "durasi": 2,
+        "mua": {
+            "kodeMUA": "MUA-004",
             "kodeLayanan": "CAT-M04",
             "kategori": "Wedding",
-            "tanggal": "25-11-2026",
+            "tanggal": "05-12-2026",
             "sesi": "Pagi",
             "harga": 1200000
         },
-        "subtotalRental": 1030000,
+        "subtotalRental": 1000000,
         "biayaMUA": 1200000,
-        "totalAwal": 2230000,
-        "minimalDP": 669000,
+        "totalAwal": 2200000,
+        "minimalDP": 660000,
         "denda": 0,
-        "totalAkhir": 2230000,
+        "totalAkhir": 2200000,
+        "totalDibayar": 660000,
+        "statusRental": "ST-02",
+        "statusBayar": "PAY-02",
+        "pengambilan": null,
+        "pengembalian": null,
+        "pengajuanBatal": false,
+        "pembatalan": null
+    },
+    {
+        "kode": "RNT-006",
+        "idPelanggan": "CUS-001",
+        "namaPelanggan": "Siti Rahma",
+        "dibuatPada": "25-11-2026 08:00",
+        "batasBayar": "26-11-2026 23:59",
+        "jenisPesanan": "Satuan",
+        "paket": null,
+        "items": [
+            {
+                "kodeProduk": "KB-BLU-L",
+                "nama": "Kebaya",
+                "jumlah": 1,
+                "hargaSewa": 125000
+            }
+        ],
+        "tanggalMulai": "28-11-2026",
+        "tanggalAkhir": "28-11-2026",
+        "durasi": 1,
+        "mua": null,
+        "subtotalRental": 125000,
+        "biayaMUA": 0,
+        "totalAwal": 125000,
+        "minimalDP": 37500,
+        "denda": 0,
+        "totalAkhir": 125000,
         "totalDibayar": 0,
         "statusRental": "ST-01",
         "statusBayar": "PAY-01",
@@ -101,5 +282,44 @@
         "pengembalian": null,
         "pengajuanBatal": false,
         "pembatalan": null
+    },
+    {
+        "kode": "RNT-007",
+        "idPelanggan": "CUS-002",
+        "namaPelanggan": "Budi Santoso",
+        "dibuatPada": "12-11-2026 09:00",
+        "batasBayar": "13-11-2026 09:00",
+        "jenisPesanan": "Satuan",
+        "paket": null,
+        "items": [
+            {
+                "kodeProduk": "GN-PTS-NVY",
+                "nama": "Gaun Pesta",
+                "jumlah": 1,
+                "hargaSewa": 250000
+            }
+        ],
+        "tanggalMulai": "15-11-2026",
+        "tanggalAkhir": "15-11-2026",
+        "durasi": 1,
+        "mua": null,
+        "subtotalRental": 250000,
+        "biayaMUA": 0,
+        "totalAwal": 250000,
+        "minimalDP": 75000,
+        "denda": 0,
+        "totalAkhir": 250000,
+        "totalDibayar": 0,
+        "statusRental": "ST-06",
+        "statusBayar": "PAY-01",
+        "pengambilan": null,
+        "pengembalian": null,
+        "pengajuanBatal": false,
+        "pembatalan": {
+            "waktu": "13-11-2026 09:05",
+            "jenis": "Otomatis",
+            "oleh": "Sistem",
+            "refund": 0
+        }
     }
 ]

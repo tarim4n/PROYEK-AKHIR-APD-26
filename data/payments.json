@@ -1,1 +1,101 @@
-[]
+[
+    {
+        "kode": "PAY-001",
+        "kodeRental": "RNT-001",
+        "nominal": 306000,
+        "tanggal": "08-11-2026 10:30",
+        "dikonfirmasi": true,
+        "dikonfirmasiOleh": "Petugas Rupae",
+        "tanggalKonfirmasi": "08-11-2026 10:30"
+    },
+    {
+        "kode": "PAY-002",
+        "kodeRental": "RNT-001",
+        "nominal": 714000,
+        "tanggal": "10-11-2026 08:20",
+        "dikonfirmasi": true,
+        "dikonfirmasiOleh": "Petugas Rupae",
+        "tanggalKonfirmasi": "10-11-2026 08:20"
+    },
+    {
+        "kode": "PAY-003",
+        "kodeRental": "RNT-001",
+        "nominal": 104000,
+        "tanggal": "12-11-2026 14:00",
+        "dikonfirmasi": true,
+        "dikonfirmasiOleh": "Petugas Rupae",
+        "tanggalKonfirmasi": "12-11-2026 14:00"
+    },
+    {
+        "kode": "PAY-004",
+        "kodeRental": "RNT-002",
+        "nominal": 142500,
+        "tanggal": "03-11-2026 13:20",
+        "dikonfirmasi": true,
+        "dikonfirmasiOleh": "Petugas Rupae",
+        "tanggalKonfirmasi": "03-11-2026 13:20"
+    },
+    {
+        "kode": "PAY-005",
+        "kodeRental": "RNT-002",
+        "nominal": 332500,
+        "tanggal": "05-11-2026 08:50",
+        "dikonfirmasi": true,
+        "dikonfirmasiOleh": "Petugas Rupae",
+        "tanggalKonfirmasi": "05-11-2026 08:50"
+    },
+    {
+        "kode": "PAY-006",
+        "kodeRental": "RNT-003",
+        "nominal": 435000,
+        "tanggal": "22-11-2026 11:20",
+        "dikonfirmasi": true,
+        "dikonfirmasiOleh": "Petugas Rupae",
+        "tanggalKonfirmasi": "22-11-2026 11:20"
+    },
+    {
+        "kode": "PAY-007",
+        "kodeRental": "RNT-003",
+        "nominal": 500000,
+        "tanggal": "24-11-2026 09:00",
+        "dikonfirmasi": true,
+        "dikonfirmasiOleh": "Administrator",
+        "tanggalKonfirmasi": "24-11-2026 09:00"
+    },
+    {
+        "kode": "PAY-008",
+        "kodeRental": "RNT-004",
+        "nominal": 225000,
+        "tanggal": "18-11-2026 15:20",
+        "dikonfirmasi": true,
+        "dikonfirmasiOleh": "Petugas Rupae",
+        "tanggalKonfirmasi": "18-11-2026 15:20"
+    },
+    {
+        "kode": "PAY-009",
+        "kodeRental": "RNT-004",
+        "nominal": 300000,
+        "tanggal": "20-11-2026 09:45",
+        "dikonfirmasi": true,
+        "dikonfirmasiOleh": "Administrator",
+        "tanggalKonfirmasi": "20-11-2026 09:45"
+    },
+    {
+        "kode": "PAY-010",
+        "kodeRental": "RNT-005",
+        "nominal": 660000,
+        "tanggal": "24-11-2026 09:30",
+        "dikonfirmasi": true,
+        "dikonfirmasiOleh": "Petugas Rupae",
+        "tanggalKonfirmasi": "24-11-2026 09:30"
+    },
+    {
+        "kode": "PAY-011",
+        "kodeRental": "RNT-005",
+        "nominal": 500000,
+        "tanggal": "25-11-2026 08:45",
+        "dikonfirmasi": false,
+        "dikonfirmasiOleh": "-",
+        "tanggalKonfirmasi": "-"
+    }
+]

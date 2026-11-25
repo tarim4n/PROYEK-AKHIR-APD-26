@@ -9,7 +9,14 @@
             "Sore",
             "Malam"
         ],
-        "jadwal": []
+        "jadwal": [
+            {
+                "kode": "MUA-001",
+                "tanggal": "10-11-2026",
+                "sesi": "Pagi",
+                "kodeRental": "RNT-001"
+            }
+        ]
     },
     {
         "kode": "CAT-M02",
@@ -23,10 +30,10 @@
         ],
         "jadwal": [
             {
-                "kode": "MUA-001",
-                "tanggal": "30-11-2026",
-                "sesi": "Pagi",
-                "kodeRental": "RNT-001"
+                "kode": "MUA-002",
+                "tanggal": "05-11-2026",
+                "sesi": "Siang",
+                "kodeRental": "RNT-002"
             }
         ]
     },
@@ -40,7 +47,14 @@
             "Sore",
             "Malam"
         ],
-        "jadwal": []
+        "jadwal": [
+            {
+                "kode": "MUA-003",
+                "tanggal": "24-11-2026",
+                "sesi": "Sore",
+                "kodeRental": "RNT-003"
+            }
+        ]
     },
     {
         "kode": "CAT-M04",
@@ -54,10 +68,10 @@
         ],
         "jadwal": [
             {
-                "kode": "MUA-002",
-                "tanggal": "25-11-2026",
+                "kode": "MUA-004",
+                "tanggal": "05-12-2026",
                 "sesi": "Pagi",
-                "kodeRental": "RNT-002"
+                "kodeRental": "RNT-005"
             }
         ]
     }
