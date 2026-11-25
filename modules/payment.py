@@ -91,7 +91,7 @@ def catatPembayaran(user, rental, sisa):
         pesanGagal('Pembayaran ditolak! Nominal melebihi sisa tagihan.')
         return
 
-        pembayaran = {
+    pembayaran = {
         'kode': generateKode('PAY', bacaJSON(filePembayaran), 'kode'),
         'kodeRental': rental['kode'],
         'nominal': nominal,
@@ -169,4 +169,3 @@ def process_payment(user, kodeAwal=None):
         catatPembayaran(user, rental, sisa)
     elif pilihan == '2':
         konfirmasiTertunda(user, rental)
-        

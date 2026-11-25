@@ -1,1 +1,105 @@
-[]
+[
+    {
+        "kode": "RNT-001",
+        "idPelanggan": "CUS-003",
+        "namaPelanggan": "PelangganHIHU",
+        "dibuatPada": "25-11-2026 03:29",
+        "batasBayar": "26-11-2026 03:29",
+        "jenisPesanan": "Satuan",
+        "paket": null,
+        "items": [
+            {
+                "kodeProduk": "AD-BGS-P",
+                "nama": "Baju Bodo Bugis",
+                "jumlah": 1,
+                "hargaSewa": 200000
+            }
+        ],
+        "tanggalMulai": "30-11-2026",
+        "tanggalAkhir": "01-12-2026",
+        "durasi": 2,
+        "mua": {
+            "kodeMUA": "MUA-001",
+            "kodeLayanan": "CAT-M02",
+            "kategori": "Formal",
+            "tanggal": "30-11-2026",
+            "sesi": "Pagi",
+            "harga": 350000
+        },
+        "subtotalRental": 400000,
+        "biayaMUA": 350000,
+        "totalAwal": 750000,
+        "minimalDP": 225000,
+        "denda": 0,
+        "totalAkhir": 750000,
+        "totalDibayar": 0,
+        "statusRental": "ST-01",
+        "statusBayar": "PAY-01",
+        "pengambilan": null,
+        "pengembalian": null,
+        "pengajuanBatal": true,
+        "pembatalan": null
+    },
+    {
+        "kode": "RNT-002",
+        "idPelanggan": "CUS-003",
+        "namaPelanggan": "PelangganHIHU",
+        "dibuatPada": "25-11-2026 03:35",
+        "batasBayar": "26-11-2026 03:35",
+        "jenisPesanan": "Paket",
+        "paket": {
+            "kode": "PKA-003",
+            "nama": "Wedding Minang"
+        },
+        "items": [
+            {
+                "kodeProduk": "AD-MNG-P",
+                "nama": "Busana Adat Minang",
+                "jumlah": 1,
+                "hargaSewa": 225000
+            },
+            {
+                "kodeProduk": "AD-MNG-L",
+                "nama": "Busana Adat Minang",
+                "jumlah": 1,
+                "hargaSewa": 200000
+            },
+            {
+                "kodeProduk": "AK-MNG-P",
+                "nama": "Set aksesori perempuan Minang",
+                "jumlah": 1,
+                "hargaSewa": 60000
+            },
+            {
+                "kodeProduk": "AK-MNG-L",
+                "nama": "Set aksesori pria Minang",
+                "jumlah": 1,
+                "hargaSewa": 30000
+            }
+        ],
+        "tanggalMulai": "25-11-2026",
+        "tanggalAkhir": "26-11-2026",
+        "durasi": 2,
+        "mua": {
+            "kodeMUA": "MUA-002",
+            "kodeLayanan": "CAT-M04",
+            "kategori": "Wedding",
+            "tanggal": "25-11-2026",
+            "sesi": "Pagi",
+            "harga": 1200000
+        },
+        "subtotalRental": 1030000,
+        "biayaMUA": 1200000,
+        "totalAwal": 2230000,
+        "minimalDP": 669000,
+        "denda": 0,
+        "totalAkhir": 2230000,
+        "totalDibayar": 0,
+        "statusRental": "ST-01",
+        "statusBayar": "PAY-01",
+        "pengambilan": null,
+        "pengembalian": null,
+        "pengajuanBatal": false,
+        "pembatalan": null
+    }
+]

@@ -14,5 +14,50 @@
         "nama": "petugas1",
         "role": "Petugas",
         "aktif": true
+    },
+    {
+        "id": "USR-003",
+        "username": "zaky",
+        "password": "ilhamzaky390",
+        "nama": "zaky neymar",
+        "role": "Pelanggan",
+        "aktif": true,
+        "idPelanggan": "CUS-001"
+    },
+    {
+        "id": "USR-004",
+        "username": "tari",
+        "password": "taridarma",
+        "nama": "tari aja sih",
+        "role": "Pelanggan",
+        "aktif": true,
+        "idPelanggan": "CUS-002"
+    },
+    {
+        "id": "USR-005",
+        "username": "hihuy",
+        "password": "123456",
+        "nama": "PelangganHIHU",
+        "role": "Pelanggan",
+        "aktif": true,
+        "idPelanggan": "CUS-003"
+    },
+    {
+        "id": "USR-006",
+        "username": "reyzy",
+        "password": "reyzy123",
+        "nama": "Fachreyzy",
+        "role": "Pelanggan",
+        "aktif": true,
+        "idPelanggan": "CUS-004"
+    },
+    {
+        "id": "USR-007",
+        "username": "jinji",
+        "password": "jinji123",
+        "nama": "Jinjiw",
+        "role": "Pelanggan",
+        "aktif": true,
+        "idPelanggan": "CUS-005"
     }
 ]

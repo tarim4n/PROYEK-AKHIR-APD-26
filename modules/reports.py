@@ -90,7 +90,8 @@ def show_stock_report():
     tampilkanTabel(['Kode', 'Nama', 'Stok', 'Disewa', 'Dipesan', 'Sedia Hari Ini'],
                    baris, ('Stok', 'Disewa', 'Dipesan', 'Sedia Hari Ini'))
     print(f'\nTotal {len(baris)} variasi, total stok fisik {totalStok} unit.')
-    print('Disewa = ST-03/ST-04, Dipesan = ST-01/ST-02 (menahan stok sesuai periode).')
+    print('Disewa = transaksi Sedang Disewa + Terlambat.')
+    print('Dipesan = transaksi Menunggu Pembayaran + Menunggu Pengambilan (menahan stok sesuai periode).')
 
 
 def ambilPyplot():

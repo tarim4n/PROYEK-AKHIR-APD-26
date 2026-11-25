@@ -57,6 +57,8 @@ def inputTanggal(pesan, boleh0=False):
 def validasiHP(hp):
     if not hp.isdigit():
         return False, 'Nomor HP hanya boleh berisi angka!'
+    if not hp.startswith('08'):
+        return False, 'Nomor HP harus diawali 08!'
     if len(hp) < 12:
         return False, 'Nomor HP minimal 12 digit!'
     if len(hp) > 15:

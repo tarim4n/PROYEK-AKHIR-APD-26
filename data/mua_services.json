@@ -21,7 +21,14 @@
             "Sore",
             "Malam"
         ],
-        "jadwal": []
+        "jadwal": [
+            {
+                "kode": "MUA-001",
+                "tanggal": "30-11-2026",
+                "sesi": "Pagi",
+                "kodeRental": "RNT-001"
+            }
+        ]
     },
     {
         "kode": "CAT-M03",
@@ -45,6 +52,13 @@
             "Sore",
             "Malam"
         ],
-        "jadwal": []
+        "jadwal": [
+            {
+                "kode": "MUA-002",
+                "tanggal": "25-11-2026",
+                "sesi": "Pagi",
+                "kodeRental": "RNT-002"
+            }
+        ]
     }
 ]

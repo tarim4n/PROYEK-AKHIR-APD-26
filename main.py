@@ -24,7 +24,7 @@ from modules.reports import menu_reports
 
 
 def menu_data_master(user):
-    # Flowchart halaman 8 (H)
+    # percabangan
     while True:
         cetakJudul('KELOLA DATA MASTER')
         cetakMenu(['1. Kategori', '2. Katalog', '3. Layanan MUA', '4. Paket Acara', '0. Kembali'])
@@ -42,7 +42,7 @@ def menu_data_master(user):
 
 
 def menu_admin(user):
-    # Flowchart halaman 5 (E)
+    # percabangan
     while True:
         cetakJudul(f'MENU ADMIN - {user["nama"]}')
         cetakMenu(['1. Kelola Data Master', '2. Kelola Akun',
@@ -81,7 +81,7 @@ def menu_admin(user):
 
 
 def menu_petugas(user):
-    # Flowchart halaman 6 (F)
+    # percabangan
     while True:
         cetakJudul(f'MENU PETUGAS - {user["nama"]}')
         cetakMenu(['1. Lihat Katalog', '2. Kelola/Cari Pelanggan',
@@ -121,7 +121,7 @@ def menu_petugas(user):
 
 
 def menu_pelanggan(user):
-    # Flowchart halaman 7 (G)
+    # percabangan
     while True:
         cetakJudul(f'MENU PENGGUNA - {user["nama"]}')
         cetakMenu(['1. Lihat Katalog/Cari Kategori', '2. Buat Rental/Paket Acara + MUA',
@@ -160,6 +160,8 @@ def main():
         if pilihan == '1':
             user = login()
             if user is not None:
+                # tahan pesan 'Login berhasil', lalu bersihkan terminal sebelum menu role
+                tungguEnter()
                 if user['role'] == 'Admin':
                     menu_admin(user)
                 elif user['role'] == 'Petugas':

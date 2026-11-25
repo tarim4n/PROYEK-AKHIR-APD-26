@@ -1,1 +1,32 @@
-[]
+[
+    {
+        "id": "CUS-001",
+        "username": "zaky",
+        "nama": "zaky neymar",
+        "hp": "082398765432"
+    },
+    {
+        "id": "CUS-002",
+        "username": "tari",
+        "nama": "tari aja sih",
+        "hp": "123456789102"
+    },
+    {
+        "id": "CUS-003",
+        "username": "hihuy",
+        "nama": "PelangganHIHU",
+        "hp": "08323232323323"
+    },
+    {
+        "id": "CUS-004",
+        "username": "reyzy",
+        "nama": "Fachreyzy",
+        "hp": "089081717717"
+    },
+    {
+        "id": "CUS-005",
+        "username": "jinji",
+        "nama": "Jinjiw",
+        "hp": "08124444334666"
+    }
+]
